@@ -1,0 +1,16 @@
+{
+  "name": "template_node",
+  "version": "1.0.0",
+  "description": "Template for nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies": {
+  	"express": "*"
+  },
+
+  "author": "JunHao Peh",
+  "license": "ISC"
+}
